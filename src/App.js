@@ -7,7 +7,7 @@ import SecondPart from "./components/SecondPart/SecondPart";
 const INITIAL_STATE = [
   { id: 0, title: "Plan the family trip to Dublin", done: false },
   { id: 1, title: "Groceries for dinner", done: false },
-  { id: 2, title: "Plan Nehir's birtday event", done: true }
+  { id: 2, title: "Plan Nehir's birthday event", done: true }
 ]
 
 function App() {
