@@ -15,6 +15,7 @@ const FirstPart = ({ toDoLists, setToDoLists }) => {
 
     const addNewItem = () => {
         setToDoLists([...toDoLists, { id: toDoLists.length, title: newItem, done: false }]);
+        setNewItem('');
     }
 
     const handleKeyPress = (e)=>{
