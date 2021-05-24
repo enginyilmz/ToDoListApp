@@ -1,3 +1,7 @@
+# You can test here.
+
+This project was deployed with netlify [Test ToDo App](https://enginyilmaz-todolist.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
