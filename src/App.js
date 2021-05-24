@@ -4,6 +4,8 @@ import "bootstrap-icons/font/bootstrap-icons.css"
 import FirstPart from "./components/FirstPart/FirstPart";
 import SecondPart from "./components/SecondPart/SecondPart";
 
+import Footer from "./components/Footer/Footer"
+
 const INITIAL_STATE = [
   { id: 0, title: "Plan the family trip to Dublin", done: false },
   { id: 1, title: "Groceries for dinner", done: false },
@@ -16,6 +18,7 @@ function App() {
     <div className="container">
       <FirstPart toDoLists={toDoLists} setToDoLists={setToDoLists}/>
       <SecondPart toDoLists={toDoLists} setToDoLists={setToDoLists} />
+      <Footer/>
     </div>
   );
 }
