@@ -2,6 +2,8 @@
 
 This project was deployed with netlify [Test ToDo App](https://enginyilmaz-todolist.netlify.app/).
 
+[![ToDoList](https://res.cloudinary.com/engin-cdn/image/upload/c_scale,w_300/v1621849974/To-DoList_nxoqof.png)](https://enginyilmaz-todolist.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
